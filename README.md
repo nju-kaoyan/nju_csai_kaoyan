@@ -6,3 +6,7 @@
 ### [2019 CS&AI wiki](https://github.com/ThyrixYang/nju_cs_kaoyan_19/wiki)
 
 ### [2018 CS wiki](https://github.com/ThyrixYang/nju_cs_kaoyan/wiki)
+
+---
+
+[2017-2019 CS课表](https://github.com/nju-kaoyan/nju_csai_kaoyan/blob/master/2017-2019kebiao.zip)
