@@ -10,3 +10,5 @@
 ---
 
 [2017-2019 CS课表](https://github.com/nju-kaoyan/nju_csai_kaoyan/blob/master/2017-2019kebiao.zip)
+
+![](https://github.com/ThyrixYang/nju_cs_kaoyan_19/blob/master/pic2.jpg "欢迎报考")
