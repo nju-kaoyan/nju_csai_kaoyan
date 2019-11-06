@@ -10,6 +10,8 @@
 
 ### [2018 CS wiki](https://github.com/ThyrixYang/nju_cs_kaoyan/wiki)
 
+### [NJU CS考研相关资料整理](https://github.com/JackeyLea/NJUCS)
+
 QQ群: AI 730391450 
 
 ---
