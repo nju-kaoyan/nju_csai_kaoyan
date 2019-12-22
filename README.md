@@ -20,8 +20,6 @@ QQ群: AI 730391450
 
 [2017-2019 CS课表](https://github.com/nju-kaoyan/nju_csai_kaoyan/blob/master/2017-2019kebiao.zip)
 
-![](https://github.com/ThyrixYang/nju_cs_kaoyan_19/blob/master/pic2.jpg "欢迎报考")
-
 ---
 
 要参与贡献可通过以下任意方式
@@ -47,3 +45,6 @@ QQ群: AI 730391450
 3.证明Catalan数的公式。（by 咸鱼）
 
 欢迎贡献关于考研南大CS&AI的各类经验帖（包括英语数学政治等）
+
+
+![](https://github.com/ThyrixYang/nju_cs_kaoyan_19/blob/master/pic2.jpg "欢迎报考")
