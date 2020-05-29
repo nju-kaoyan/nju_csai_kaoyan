@@ -26,11 +26,11 @@ QQ群: AI 730391450
 
 *注意文档内容推荐使用pdf或markdown(最好是md，有github内建支持)，其他文件如doc无法直接在github预览*
 
-1.直接在issue发布 
+1. 直接在issue发布 
 
-2.在qq群咨询管理员 
+2. 在qq群咨询管理员 
 
-3.新建文件开一个pull request，可以提交文档或其他文件
+3. 新建文件开一个pull request，可以提交文档或其他文件
 
 4. 想要直接编辑wiki的话请在issue中说明，管理员可以给你权限
 
