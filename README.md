@@ -15,7 +15,7 @@
 
 ### [NJU CS考研相关资料整理](https://github.com/JackeyLea/NJUCS)
 
-QQ群: AI 730391450 
+QQ群: AI 730391450(旧) 686411297(新)
 
 ---
 
