@@ -4,7 +4,7 @@
 
 计划后续的wiki就挂在这个orgnization下面，欢迎加入管理
 
-### [2021 CS wiki(更新中)](https://github.com/nju-kaoyan/nju-cs-2021/wiki)
+### [2021 CS wiki(更新中)](https://github.com/nju-kaoyan/nju_cs_21/wiki)
 
 ### [2021 AI wiki(更新中)](https://github.com/nju-kaoyan/nju-ai-2021/wiki)
 
