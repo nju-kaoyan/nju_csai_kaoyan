@@ -3,6 +3,9 @@
 南京大学　计算机和人工智能(由于有了夏令营面试的内容，其实不只是考研了）
 
 计划后续的wiki就挂在这个orgnization下面，欢迎加入管理
+
+### [2021 CS wiki(更新中)](https://github.com/nju-kaoyan/nju-cs-2021/wiki)
+
 ### [2021 AI wiki(更新中)](https://github.com/nju-kaoyan/nju-ai-2021/wiki)
 
 ### [2020 CS wiki](https://github.com/nju-kaoyan/nju_cs_20/wiki)
