@@ -4,9 +4,13 @@
 
 计划后续的wiki就挂在这个orgnization下面，欢迎加入管理
 
-### [2022 CS wiki(更新中)](https://github.com/nju-kaoyan/nju_cs_22/wiki)
+### [2023 CS wiki(更新中)](https://github.com/nju-kaoyan/nju_cs_23/wiki)
 
-### [2022 AI wiki(更新中)](https://github.com/nju-kaoyan/nju_ai_22/wiki)
+### [2023 AI wiki(更新中)](https://github.com/nju-kaoyan/nju_ai_23/wiki)
+
+### [2022 CS wiki](https://github.com/nju-kaoyan/nju_cs_22/wiki)
+
+### [2022 AI wiki](https://github.com/nju-kaoyan/nju_ai_22/wiki)
 
 ### [2021 CS wiki](https://github.com/nju-kaoyan/nju_cs_21/wiki)
 
