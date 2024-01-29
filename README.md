@@ -26,7 +26,7 @@
 
 ### [NJU CS考研相关资料整理](https://github.com/JackeyLea/NJUCS)
 
-QQ群: AI 878446052
+qq群：550150534(CS) 878446052(AI)
 
 ---
 
@@ -46,7 +46,7 @@ QQ群: AI 878446052
 
 4. 想要直接编辑wiki的话请在issue中说明，管理员可以给你权限
 
-qq群：495415928(CS) 878446052(AI)
+qq群：550150534(CS) 878446052(AI)
 
 
 ![](https://github.com/ThyrixYang/nju_cs_kaoyan_19/blob/master/pic2.jpg "欢迎报考")
