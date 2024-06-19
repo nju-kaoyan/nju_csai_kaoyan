@@ -6,8 +6,6 @@
 
 ### [2024 CS wiki(更新中)](https://github.com/nju-kaoyan/nju_cs_24/wiki)
 
-### [2024 AI wiki(更新中)](https://github.com/nju-kaoyan/nju_ai_24/wiki)
-
 ### [2023 CS wiki](https://github.com/nju-kaoyan/nju_cs_23/wiki)
 
 ### [2023 AI wiki](https://github.com/nju-kaoyan/nju_ai_23/wiki)
