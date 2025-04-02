@@ -2,8 +2,6 @@
 
 南京大学　计算机和人工智能(由于有了夏令营面试的内容，其实不只是考研了）
 
-**由于没有学弟学妹参与继续维护，本仓库转为只读，欢迎有意继续组织的同学联系我**
-
 ### [2025 CS wiki (更新中)](https://github.com/nju-kaoyan/nju_cs_25/wiki)
 
 ### [2024 CS wiki](https://github.com/nju-kaoyan/nju_cs_24/wiki)
