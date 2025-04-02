@@ -1,6 +1,6 @@
 # nju_csai_kaoyan
 
-南京大学　计算机和人工智能(由于有了夏令营面试的内容，其实不只是考研了）
+**南京大学**　计算机和人工智能考研经验分享
 
 ### [2025 CS wiki (更新中)](https://github.com/nju-kaoyan/nju_cs_25/wiki)
 
