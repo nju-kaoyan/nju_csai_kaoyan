@@ -2,7 +2,9 @@
 
 **南京大学**　计算机和人工智能考研经验分享
 
-### [2025 CS wiki (更新中)](https://github.com/nju-kaoyan/nju_cs_25/wiki)
+### [2026 CS wiki](https://github.com/nju-kaoyan/nju_cs_26/wiki)
+
+### [2025 CS wiki](https://github.com/nju-kaoyan/nju_cs_25/wiki)
 
 ### [2024 CS wiki](https://github.com/nju-kaoyan/nju_cs_24/wiki)
 
